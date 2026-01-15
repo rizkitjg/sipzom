@@ -44,3 +44,11 @@ Streamlined Zoom link management with automatic meeting URL parsing.
 Optional integration for file uploads or external document references for official invitations.
 
 Improved responsive layout for all device sizes.
+
+**Interface**
+
+<img width="450" height="423" alt="image" src="https://github.com/user-attachments/assets/636877d7-635c-4751-aab3-aa291e275faa" />
+<img width="450" height="426" alt="image" src="https://github.com/user-attachments/assets/fbc28f4f-1009-4ca4-85db-bc706eeca4eb" />
+<img width="450" height="425" alt="image" src="https://github.com/user-attachments/assets/cad587f9-49d2-4a5b-941c-181d64482cbb" />
+<img width="450" height="419" alt="image" src="https://github.com/user-attachments/assets/8b74c396-2b2a-402a-8dad-7291101707d5" />
+
